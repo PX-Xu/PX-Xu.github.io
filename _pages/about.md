@@ -12,7 +12,7 @@ redirect_from:
 
 # Short Bio
 
-I am a master student at [School of Electronic Information and Communications](https://ei.hust.edu.cn/index.htm), [Huazhong University of Science and Technology](https://www.hust.edu.cn/).
+I am a master student at the [School of Electronic Information and Communications](https://ei.hust.edu.cn/index.htm), [Huazhong University of Science and Technology](https://www.hust.edu.cn/).
 
 My research interests are Transfer learning(Domain Adaptation) and Generative AI.
 
